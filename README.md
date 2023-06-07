@@ -25,4 +25,5 @@
 ### Contato  
 <div>
   <a href="https://www.linkedin.com/in/ana-beatriz-atique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://ana-atique.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white" target="blank"></a>
 <div/>
