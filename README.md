@@ -1,6 +1,6 @@
 # Oii, sou a Ana Beatriz, prazer! 
 
-- :woman_student: Bacharel em Matemática pela UFU e Pós-Graduanda em Data Science e Analytics pela USP/Esalq.
+- :woman_student: Bacharel em Matemática pela UFU e Pós-Graduada em Data Science e Analytics pela USP/Esalq.
 - :notebook_with_decorative_cover: Amo conhecer e aprender coisas novas! Atualmente tenho dedicado meu tempo para aprender SQL, R e fundamentos da Análise de Dados.
 - :running_woman: No meu tempo livre gosto de correr e bordar.
 
